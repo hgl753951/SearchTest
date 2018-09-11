@@ -28,6 +28,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     self.navigationController.navigationBarHidden = YES;
     
+    self.view.backgroundColor = [UIColor orangeColor];
+    
     CustomNavigationBar *nav = [[CustomNavigationBar alloc]initWithFrame:CGRectMake(0, 0, KscreenW, 64) withTitle:@"首页" withLeftBtnHidden:NO withRightBtn:NO];
     nav.delegate = self;
     nav.rightBtnType = BtnTypeSearch;

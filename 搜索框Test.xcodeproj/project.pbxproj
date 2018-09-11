@@ -497,6 +497,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5GX4FZ6FLT;
 				INFOPLIST_FILE = "搜索框Test/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bojuwang.---Test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -511,6 +512,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5GX4FZ6FLT;
 				INFOPLIST_FILE = "搜索框Test/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.bojuwang.---Test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
